@@ -1,0 +1,8 @@
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.9.0
+geopandas==0.14.4
+scipy==1.13.1
+shapely==2.0.4
+pyproj==3.6.1
+fiona==1.9.6
